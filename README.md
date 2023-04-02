@@ -1,2 +1,2 @@
-# CPP-Zadania
-Zadania z C++ robione w szkole
+# C++ Zadania
+## Proste zadania robione w C++ na lekcjach w pierwszym semestrze 

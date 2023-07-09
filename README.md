@@ -1,2 +1,2 @@
-# C++ Zadania
-## Proste zadania robione w C++ na lekcjach w pierwszym semestrze 
+# C++ exercises i know they are really archaic but they have to be done this way
+
